@@ -14,6 +14,55 @@
 - Cyclone Joker Xtreme型态，是由Double Driver配合Xtreme Memory变身而成。
 Cyclone Memory和Joker Memory被Xtreme Memory抽离，之后Xtreme Memory两旁的Memory插进Double Driver就能变身。然而，菲利浦并非以灵魂传送至身体记忆体的使用者身上，而是和翔太郎“二合为一”。)
 
+假面骑士Ｗ的各种型态及必杀技名称
+	Joker（王牌）	Metal（金属）	Trigger（扳机）
+Cyclone（旋风）	Cyclone Joker
+（旋风王牌）
+Joker Extreme	Cyclone Metal
+（旋风钢铁）
+Metal Twister	Cyclone Trigger
+（旋风枪手）
+Trigger Aero Buster
+Trigger Storm Bomb
+Heat（炙热）	Heat Joker
+（炙热王牌）
+Joker Grenade	Heat Metal
+（炙热钢铁）
+Metal Branding	Heat Trigger
+（炙热枪手）
+Trigger Explosion
+Luna（月神）	Luna Joker
+（月神王牌）
+Joker Strange	Luna Metal
+（月神钢铁）
+Metal Illusion	Luna Trigger
+（月神枪手）
+Trigger Full Burst
+Fang（尖牙）	Fang Joker
+（尖牙王牌）
+Fang Straizer	Fang Metal
+（尖牙钢铁）
+Fang Spear Bullet	Fang Trigger
+（尖牙枪手）
+Fang Screwdr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 (记忆体
 (记忆体一：
 Cyclone（旋风）
@@ -45,11 +94,47 @@ Joker（港译为皇牌、台译为王牌）
 •	与Luna Memory结合成Luna Joker型态，W的右边身躯可随意伸展，有如橡皮筋般的弹性。必杀技为身体对分，再分出多个Luna攻击——“Joker Strange”。
 •	与Fang Memory结合成Fang Joker型态，仅作灵魂记忆体之用，未为Fang Joker提供特殊能力或属性。
 •	翔太郎使用Joker Memory（非T2）单独变成Joker。必杀技为骑士踼——“Rider Kick”和骑士拳——“Rider Punch”。)
-()
-)
+(记忆体四：
+Metal（港台均译为钢铁）
+-代表“钢铁的记忆”的Gaia Memory。
+-Metal 型态的W有强大的力量和防御力，使用棍型武器“Metal Shaft”（台译为钢铁重击棍）。
+-Metal Memory与同样是力量型的Heat Memory有很好的契合度。
+•	与Cyclone Memory结合成Cyclone Metal型态，可以提升使用Metal Shaft的速度。必杀技为附着强烈旋风的连续棍击——“Metal Twister”（台译为钢铁旋风破）
+•	与Heat Memory结合成Heat Metal型态，使用Metal Shaft时可产生火焰。必杀技为附着强烈火焰的棍击——“Metal Branding”（台译为钢铁烙印击）。
+•	与Luna Memory结合成Luna Metal型态，Metal Shaft变得有弹性，可随意弯曲。必杀技为划出多个黄色的追踪能量环的连续攻击——“Metal Illusion”（台译为钢铁幻旋阵）。
+•	与Fang Memory结合成Fang Metal型态。)
+(记忆体五：
+Trigger（港译为枪击、台译为枪手）
+-代表“枪击的记忆”的Gaia Memory。
+-Trigger 型态的W拥有优秀的射击能力，使用手枪“Trigger Magnum”（港译神枪麦林、台译为枪手麦格农）战斗。
+-Trigger Memory与同样是战术型的Luna Memory有很好的契合度。
+•	与Cyclone Memory结合成Cyclone Trigger型态，Trigger Magnum的频率和子弹速度有所提升。第5话首次登场。曾与Bat shot配合，使出有高准确度的射击——“Trigger bat Shooting”（ 
+•	与Heat Memory结合成Heat Trigger型态，Trigger Magnum会射出火焰弹，于第6话登场。必杀技为火焰弹喷射——“Trigger Explosion”。 
+•	与Luna Memory结合成Luna Trigger型态，Trigger Magnum会射出有追踪敌人功能的子弹，于第6话登场。必杀技为射出多数的追踪弹——“Trigger Full Burst” 
+•	与Fang Memory结合成Fang Trigger型态。)
+(记忆体六：
+Fang（港译为獠牙、台译为尖牙）
+-代表“獠牙的记忆”的Gaia Memory，可以给予W最快的速度和最为野性的战斗能力。
+-平时是以小型机械恐龙自由活动，有自己的思考意志。
+-Fang Memory本是为保护菲利普而创造，感应到Dopant出现时会先攻击或保护菲利普后看情况让菲利普变身,因此由菲利普持有。
+-以此型态变身时以菲利普为主体，翔太郎则会失去意识。
+-使用时会使菲利普失去理智，一切行动均以消灭敌人为优先，甚至不顾他人的安危，后来翔太郎和菲利普能够控制Fang Memory的力量，不至失控暴走。
+•	与Joker Memory结合成Fang Joker型态，Joker Memory改作灵魂记忆体方式使用（但没有为W提供任何特殊力量）。
+按下Fang Memory头上的角1下，能使用Arm Fang（台译为手臂尖牙），前腕会产生利刃当作手刀武器之用。
+连按2下，能使用Shoulder Fang（台译为肩部尖牙），肩膀上会产生利刃，拔出后可当作刀刃，或者回力标之用。
+连按3下，能使用必杀技Fang Straizer（台译为尖牙回旋刃），使用脚跟刀刃的旋转骑士踢。
+•	与Trigger Memory结合成Fang Trigger型态，Trigger Memory改作灵魂记忆体方式使用。
+•	与Metal Memory结合成Fang Metal型态，Metal Memory改作灵魂记忆体方式使用。
+特征是变身后发动两次的Shoulder Fang，自双肩延伸至手臂侧边长出金属尖刃，拥有超高的身体硬度与极快的移动速度，因而近战能力极强且攻击方式狂暴；发动Maximum Drive为旋转全身并冲撞对手，以尖刃贯穿对方的[Fang Spear Bullet])
+(记忆体七：最终形态：
+变身模式（本作的终极型态）Xtreme Memory（台译极限记忆体）
 
-
-
-
-
-
+-本体为鹰。
+-由于是Shroud交给菲利普的关系，因此由菲利普持有。
+-并没有储存任何“地球之记忆”的Gaia Memory，但能让W和地球的记忆直接相连，因此能获取任何W所需的情报。
+-鹰头部分是称为“地球空间”的电子空间，作为变身成Cyclone Joker Xtreme型态时收纳菲利普的地方。
+-配合Joker和Cyclone能变身成Cyclone Joker Xtreme型态，通常简称CJ-X型态，在Cyclone Joker Xtreme型态可召唤武器Prism Bicker作战。
+-将Double Driver收合后再推开可发动必杀技，必杀技为“Double xtreme”（台译双重极限），和Joker Extreme类似但不会左右分开，速度和威力大幅提升。）
+（Prism Memory
+-代表“棱镜的记忆”的Gaia Memory，同时作为Prism Bicker的启动𬬭匙，但并非属于拟态记忆体，而是属于纯正记忆体。
+-与其他Memory不同的是，能将多个Gaia Memory的能量聚集在一起为其最大特点。把Prism Memory插入右腰的Maximum Slot插槽，配合Xtreme Memory同时使用必杀技“Double Prism Extreme”（台译双重棱镜极限）。）))
