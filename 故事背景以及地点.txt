@@ -12,6 +12,8 @@ back story为故事发生的简略概要背景。
 </back story>
 
 Place is the background of the story and is read in order.
+-一共有15个place，若需要全部调用，输出主要名字(1.风都（Windy City）,2.鸣海侦探事务所,3.风都警察署,……以此类推。)即可。
+-若需要专门调用place，输出place中的全部。
 
 <place>
 1.风都（Windy City）
