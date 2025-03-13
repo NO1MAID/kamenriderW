@@ -1,0 +1,55 @@
+(普通型态
+-W由翔太郎和菲利普各自持有一种Gaia Memory，身体记忆体与灵魂记忆体各取其一组成的。
+-二人起初各有三个Gaia Memory，为假面骑士史上最初能以排列组合方式拥有多种型态的骑士，菲利普在故事中期得到Fang Memory，与Joker Memory组成第10种形态。
+-身体记忆体共有Joker Memory、Metal Memory、Trigger Memory、Fang Memory四种，分别为“王牌”、“钢铁”、“枪手”和“尖牙”的记忆。
+-前三个由翔太郎持有。身体记忆体决定了W的个体基本的能力和武器，身体记忆体使用者的个体会变身成W，在战斗时受到的伤害由其承受。
+-灵魂记忆体共有Cyclone Memory、Heat Memory、Luna Memory三种，分别代表“旋风”、“炙热”和“月神”的记忆，由菲利普持有，决定W的属性和特殊能力，分别为速度，火焰及变化。
+-使用特殊能力会消耗菲利浦的体力，使用过度会导致菲利浦失去战斗能力。W曾过度使用Heat Memory的火焰能力，导致菲利普昏迷。
+-变身时，其使用者的灵魂会传送至身体记忆体使用者身上，与之合二为一。
+-当任一方的Memory被拔除后，W会解除变身（更换型态及发动Maximum Drive不在此限）。
+-此外，若菲利浦的意识被强制离开W的身体时也会解除变身。
+-虽然Memory分为“身体记忆体”和“灵魂记忆体”，但在变身时先发动插入者即是作为意识传送的一方，Fang状态下由菲利普先发动，因此明显说明这点。
+-将身体记忆体插入可以发动必杀技，名为“Maximum Drive”，Maximum Slot的位置对应不同的各种身体记忆体，Joker状态下是腰带，Metal状态下是棍棒上，Trigger状态下则是枪上，亦可插入W所持有的电子仪器中。Fang Joker形态下需要连按Fang Memory上的角三次便能发动Maximum Drive。
+-第一次发动Heat和Trigger的Twin Maximum（双重极限驱动），第二个Memory的Maximum Slot的位置和Joker相同，是放在腰带，令Heat暴走，而对翔太郎身体造成严重伤害而昏倒。
+- Cyclone Joker Xtreme型态，是由Double Driver配合Xtreme Memory变身而成。
+Cyclone Memory和Joker Memory被Xtreme Memory抽离，之后Xtreme Memory两旁的Memory插进Double Driver就能变身。然而，菲利浦并非以灵魂传送至身体记忆体的使用者身上，而是和翔太郎“二合为一”。)
+
+(记忆体
+(记忆体一：
+Cyclone（旋风）
+-代表“旋风的记忆”的Gaia Memory。
+-Cyclone型态的W有优秀的速度。能使攻击速度提高并附带风的效果，会消耗体力。
+-Cyclone Memory与同样是速度型的Joker Memory有很好的契合度。
+•	与被假面骑士帝骑能力（Final Form Ride W）所分出的Cyclone Memory结合成Cyclone Cyclone形态，使其可以发挥旋风的最大疾风能力。必杀技为极大飓风应力之双腿骑士踢（Triple Extreme）。
+-变身成Cyclone型态的W时，身后的银色围巾“Windy Stabilizer”就是来自Cyclone体内。)
+(记忆体二：
+Heat（港译为热火、台译为炙热）
+-代表“热火的记忆”的Gaia Memory。
+-能生成高温，使攻击附带火焰的效果，对拥有冰冻能力和身体坚硬的敌人相当有效，但也会消耗体力。
+-由于力量过于强大，因此在启动Heat Maximum Drive的时候有着极大的风险，甚至烧伤。
+-Heat Memory与同样是力量型的Metal Memory有很好的契合度。)
+(记忆体三：
+Luna（港译为幻影、台译为月神）
+-代表“幻影的记忆”的Gaia Memory。
+-能让W的身体和使用的武器有长度伸缩弯曲，或使子弹轨迹弯曲的效果，会消耗体力。
+-Luna Memory与同样是战术型的Trigger Memory有很好的契合度。
+-在与Joker Memory配合时，“Joker Strange”右半边有分身效果。)
+(记忆体四：
+Joker（港译为皇牌、台译为王牌）
+-代表“王牌的记忆”的Gaia Memory。
+-能强化人类的运动神经，使之成为体术达人。
+-Joker型态的W有优秀的速度和身体机能，格斗能力很强。
+-Joker Memory与同样是速度型的Cyclone Memory有很好的契合度。
+•	与Cyclone Memory结合成Cyclone Joker型态，可以提升Joker的速度及灵活度，必杀技为身体对分的骑士踼——“Joker Extreme”(台译为王牌极限踢)。
+•	与Heat Memory结合成Heat Joker型态，Joker的拳击附带火焰的效果，必杀技为身体对分的拳击——“Joker Grenade”（台译为王牌榴弹击）。
+•	与Luna Memory结合成Luna Joker型态，W的右边身躯可随意伸展，有如橡皮筋般的弹性。必杀技为身体对分，再分出多个Luna攻击——“Joker Strange”。
+•	与Fang Memory结合成Fang Joker型态，仅作灵魂记忆体之用，未为Fang Joker提供特殊能力或属性。
+•	翔太郎使用Joker Memory（非T2）单独变成Joker。必杀技为骑士踼——“Rider Kick”和骑士拳——“Rider Punch”。)
+()
+)
+
+
+
+
+
+
